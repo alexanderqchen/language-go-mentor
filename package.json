@@ -6,7 +6,7 @@
     "language",
     "grammar"
   ],
-  "repository": "https://github.com/atom/language-go-mentor",
+  "repository": "https://github.com/alexanderqchen/language-go-mentor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
