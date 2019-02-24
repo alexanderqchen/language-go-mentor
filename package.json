@@ -1,6 +1,6 @@
 {
   "name": "language-go-mentor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This is a grammar for the mentor dev tool. This grammar interprets any code enclosed by a pair of `////`s as python code within a go file.",
   "keywords": [
     "language",
